@@ -13,7 +13,7 @@ go install -v github.com/offftherecord/gitwiki@latest
 
 ### Usage
 ```
-echo single_repo| gitwiki
+echo single_repo | gitwiki
 cat list_of_repos | gitwiki
 gitwiki single_repo
 ```
