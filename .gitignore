@@ -1,0 +1,26 @@
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor and IDE files
+.vscode/
+
+# Ignore build output
+build/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+
+# Ignore log files
+*.log
+
+# Ignore testfiles
+test/*
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
