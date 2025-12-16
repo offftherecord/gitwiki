@@ -1,4 +1,4 @@
-module gitwiki
+module github.com/offftherecord/gitwiki
 
 go 1.24.0
 
